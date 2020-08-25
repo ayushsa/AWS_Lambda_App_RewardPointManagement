@@ -1,0 +1,20 @@
+package model;
+
+public class Message {
+
+    public String contentType;
+    public String content;
+
+    public Message(String contentType, String content) {
+        this.contentType = contentType;
+        this.content = content;
+    }
+
+    public String getContentType() {
+        return contentType;
+    }
+
+    public String getContent() {
+        return content;
+    }
+}
