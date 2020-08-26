@@ -1,3 +1,27 @@
+# Sample JSON
+
+{
+ "bot": {
+ "name": "DeepakBot",
+ "alias": "null",
+ "version": "$LATEST"
+ },
+ "currentIntent": {
+ "confirmationStatus": "None",
+ "name": "BakeryDepartment",
+ "slots": {
+        "Amount": "2",
+        "BakeryProduct": "bread",
+        "BakeryDepartmentUnit": "loaf"
+    }
+ }
+}
+
+
+
+
+
+
 # AWS
 
 This project contains source code and supporting files for a serverless application that you can deploy with the SAM CLI. It includes the following files and folders.

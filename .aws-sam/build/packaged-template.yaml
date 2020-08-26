@@ -12,7 +12,7 @@ Resources:
   HelloWorldFunction:
     Type: AWS::Serverless::Function
     Properties:
-      CodeUri: s3://ranjeet-bocket/b2da1fe816116c713ef7ff090815012e
+      CodeUri: s3://oreonrewardmgmt/8ceff2a165bff47adf178cddcdd28a87
       Handler: helloworld.ShoppingBotLambdaV2::handleRequest
       Runtime: java8
       MemorySize: 512
