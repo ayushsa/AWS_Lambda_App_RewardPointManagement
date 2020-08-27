@@ -1,0 +1,28 @@
+
+a
+java:S1192&"FDefine a constant instead of duplicating this literal "Close" 7 times.(¼×Ûüÿÿÿÿ
+e
+java:S1192&"JDefine a constant instead of duplicating this literal "Fulfilled" 7 times.(¼×Ûüÿÿÿÿ
+`
+java:S1192%"JDefine a constant instead of duplicating this literal "PlainText" 7 times.(”ÔöÏ
+V
+java:S1854";Remove this useless assignment to local variable "content".(úî•¢ıÿÿÿÿ
+n
+java:S2293Q"YReplace the type specification in this constructor call with the diamond operator ("<>").( ¾£:
+n
+java:S2293c"YReplace the type specification in this constructor call with the diamond operator ("<>").( ¾£:
+G
+java:S1481",Remove this unused "content" local variable.(úî•¢ıÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(¼è÷ïøÿÿÿÿ
+V	java:S125$"<This block of commented-out lines of code should be removed.(‚¡€ãüÿÿÿÿ
+Q	java:S125*"<This block of commented-out lines of code should be removed.(Â¹İ¾
+V	java:S125="<This block of commented-out lines of code should be removed.(¨İê¹øÿÿÿÿ
+Q	java:S125J"<This block of commented-out lines of code should be removed.(‚µ¡Œ
+V	java:S125s"<This block of commented-out lines of code should be removed.(ÏÁ†üÿÿÿÿ
+R	java:S125€"<This block of commented-out lines of code should be removed.(Ú°à¬
+W	java:S125„"<This block of commented-out lines of code should be removed.(¸«Ûèüÿÿÿÿ
+R	java:S125‡"<This block of commented-out lines of code should be removed.(©ÀØ
+R	java:S125"<This block of commented-out lines of code should be removed.(Ú°à¬
+R	java:S125"<This block of commented-out lines of code should be removed.(ü¯¡
+W	java:S125“"<This block of commented-out lines of code should be removed.(ûÊÔêøÿÿÿÿ
+W	java:S125˜"<This block of commented-out lines of code should be removed.(Óõ†€øÿÿÿÿ
